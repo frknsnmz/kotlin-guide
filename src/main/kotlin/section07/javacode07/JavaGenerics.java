@@ -11,5 +11,7 @@ public class JavaGenerics {
         list.add("hello");
 
 
+        // boolean b = strings instanceof List<String>
+
     }
 }
